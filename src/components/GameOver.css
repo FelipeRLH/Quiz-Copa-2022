@@ -1,0 +1,26 @@
+#gameover {
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+#gameover h2,
+#gameover p {
+    margin-bottom: 1rem;
+}
+
+#gameover p {
+    color: #ff3366;
+}
+
+#gameover img {
+    margin: 2rem;
+    height: 250px;
+    border-radius: 15px;
+}
+
+#gameover button{
+    background: linear-gradient(90deg,
+      rgb(86, 212, 221) 0%, rgb(53, 126, 222) 100%);
+}

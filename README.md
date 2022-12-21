@@ -22,7 +22,7 @@ Hora de testar seus conhecimentos e ver o quanto assistiu da Copa Do Mundo 2022.
 
 - Componentes
 
-- Gerenciamento de estado(Contex API)
+- Gerenciamento de estado(Context API)
 
 - Hooks
 

@@ -1,7 +1,6 @@
 # Sobre o projeto
 
-Este projeto é um quiz sobre a copa do mundo 2022 feito com React. 
-Hora de testar seus conhecimentos e ver o quanto assistiu da Copa Do Mundo 2022.
+Este projeto consiste em um quiz sobre a Copa do Mundo de 2022, desenvolvido utilizando React. É uma ótima oportunidade para testar seus conhecimentos e avaliar o quanto você acompanhou do evento.
 
 ## Layout web
 
